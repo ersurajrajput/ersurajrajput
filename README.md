@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://thsurajsinghrajput.000webhostapp.com/](https://thsurajsinghrajput.000webhostapp.com/)
 
-- 💬 Ask me about **PHP,ANDROID,WEB DEVLOPMENT,ASP.NETDEVLOPMENT,JAVA,FLUTTER AND FIREBASE**
+- 💬 Ask me about **PHP,ANDROID,WEB DEVLOPMENT,ASP.NETDEVLOPMENT,JAVA,FLUTTER, FIREBASE AND SQL DATABASE**
 
 - 📫 How to reach me **thsurajsinghrajput@gmail.com**
 
