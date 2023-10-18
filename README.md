@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Flutter projects**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter and Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://thsurajsinghrajput.000webhostapp.com/](https://thsurajsinghrajput.000webhostapp.com/)
 
