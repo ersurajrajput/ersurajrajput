@@ -1,7 +1,7 @@
 [![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtVZecmIbE6SnmeXxBol0t2uVMbecLLb4FhdCiA1VcSgWWhQ12U5YU9iyQtQ9D7T3L8eoHY3-4xlVKV7YcysyDTSDNGuiLFvfF5ZSY-8j1kc5RSerFEXd4UtGAqHrM7kw4QvFfBnfLW_7vaY4eGpHsxajJgsbtr1iXsZpl-qWqQHZdMRsredar2sWOU1M/s1600/149367001-9473ca16-c69a-4d88-962f-64525957230b.gif)](https://thsurajsinghrajput.github.io)
 <h1 align="center">Hi 👋, I'm suraj</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" border-radius="50%" width="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0b0LvdNF4VEzRPiX-g0YTU29bYXuLnjXvEJynYW54u3vQdEYV5hUjFob1kIQZ_-O_DbZTDwDdonrkftLNyOZBUqHYgbYn7eyz4ERZOnD9Qg1yfhlPiy6Iisb9t-VwpcVrTiYa-_WoRpnspB6lUz_lnoLawbgCFCh0VzviCYr26oYNCSvVsJojLhx-Di8/s320/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif"/>
+<img align="right" alt="Coding" border-radius="50%"  width="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0b0LvdNF4VEzRPiX-g0YTU29bYXuLnjXvEJynYW54u3vQdEYV5hUjFob1kIQZ_-O_DbZTDwDdonrkftLNyOZBUqHYgbYn7eyz4ERZOnD9Qg1yfhlPiy6Iisb9t-VwpcVrTiYa-_WoRpnspB6lUz_lnoLawbgCFCh0VzviCYr26oYNCSvVsJojLhx-Di8/s320/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thsurajsinghrajput&label=Profile%20views&color=0e75b6&style=flat" alt="thsurajsinghrajput" /> </p>
 # 💫 About Me:
