@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter and Blockchain**
 
-- 👨‍💻 All of my projects are available at [thsurajsinghrajput.github.io/](https://thsurajsinghrajput.000webhostapp.com/)
+- 👨‍💻 All of my projects are available at [thsurajsinghrajput.github.io/](https://thsurajsinghrajput.github.io/)
 
 - 💬 Ask me about **PHP,ANDROID,WEB DEVLOPMENT,ASP.NETDEVLOPMENT,JAVA,FLUTTER, FIREBASE AND SQL DATABASE**
 
